@@ -1,12 +1,42 @@
-- 👋 Hi, I’m @Satyam-goswami-123
-- 👀 I’m interested in meet with new people and attend seminars and gain knowledge.
-- 🌱 I’m currently learning c and c++ programing languages-
-- 💞️ I’m looking to collaborate on technical field.
--  - 📫 How to reach me through the my LinkedIn or insta 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi there! I'm Satyam Goswami  
 
-<!---
-Satyam-goswami-123/Satyam-goswami-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a B.Tech student at **Chameli Devi Group of Institutions**, passionate about exploring technology and innovation.  
+💡 I love connecting with new people, attending seminars, and learning from real-world experiences.  
+
+---
+
+### 👀 Interests  
+- Cloud Computing & Web Development ☁️  
+- Open Source Contributions 💻  
+- Attending tech events, hackathons, and seminars 🎯  
+- Learning and collaborating on new ideas 🤝  
+
+---
+
+### 🌱 Currently Learning  
+- **C, C++ and java Programming Languages**  
+- **Data Structures & Algorithms (DSA)**
+- Web devlopment 
+- Exploring **Cloud Computing & AI-based projects**  
+
+---
+
+### 💞️ Looking to Collaborate On  
+- Open-source projects  
+- Hackathon teams & innovative tech ideas  
+- Cloud and Web-based solutions  
+
+---
+
+### 📫 How to Reach Me  
+- **LinkedIn:** https://www.linkedin.com/in/satyam-goswami-4bb44728b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+---
+
+### ⚡ Fun Fact  
+I believe every new project teaches something valuable — whether it succeeds or fails, **learning never stops!** 🚀  
+
+---
+
+> “Code. Learn. Build. Repeat.”  
+✨ _Let’s innovate and grow together!_ ✨
